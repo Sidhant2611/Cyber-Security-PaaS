@@ -2,7 +2,7 @@
 
 AWS Cloud Security
 
--AWS Infrastructure and PaaS
+-AWS Infrastructure and PaaS services
 
 Azure Security
 
