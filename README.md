@@ -12,7 +12,7 @@ Google Cloud Security
 
 -GCP Security and PaaS services
 
-YouTube Link
+YouTube Link:-
 
 AWS- https://www.youtube.com/watch?v=_2HFqANE4gw&t=16s
 
