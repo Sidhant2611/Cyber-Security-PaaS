@@ -11,3 +11,11 @@ Azure Security
 Google Cloud Security
 
 -GCP Security and PaaS services
+
+YouTube Link
+
+AWS- https://www.youtube.com/watch?v=_2HFqANE4gw&t=16s
+
+Azure- https://www.youtube.com/watch?v=mntOLLNejUo
+
+GCP- https://www.youtube.com/watch?v=UOdUC8DhprQ
